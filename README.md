@@ -121,7 +121,7 @@ public class NikharRaj {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rajnikhar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajnikhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikhar-raj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhar-raj)
 
 
 </div>
