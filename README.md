@@ -19,7 +19,7 @@ $ whoami
 ### About
 
 Backend dev. I like building things that work and figuring out why things don't.
-Ask me about Java or Node.js anytime.
+
 
 ---
 
