@@ -9,17 +9,17 @@
 ```bash
 $ whoami
 > nikhar raj — backend developer based in india
-> currently building: scalable APIs & distributed systems
+> working with java and node.js most days
 > stack: java · node.js · express · spring boot
-> always learning: system design · microservices · cloud
+> currently figuring out system design and cloud stuff
 ```
 
 ---
 
 ### about
 
-I build things on the backend. Clean architecture, fast APIs, no nonsense.
-Interested in how systems scale and why they break.
+backend dev who gets a little too into debugging at 1am.
+still learning, always building something.
 
 ---
 
