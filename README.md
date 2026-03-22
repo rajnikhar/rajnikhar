@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=nikhar.raj&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=backend%20dev%20%2F%2F%20java%20%2B%20node.js&descAlignY=62&descSize=18&animation=fadeIn&fontFamily=monospace" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=180&section=header&text=nikhar.raj&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Backend%20Developer%20%2F%2F%20Java%20·%20Node.js%20·%20Spring%20Boot&descAlignY=62&descSize=17&animation=fadeIn&fontFamily=monospace" width="100%"/>
 
 </div>
 
@@ -8,22 +8,22 @@
 
 ```bash
 $ whoami
-> nikhar raj — backend developer based in india
-> working with java and node.js most days
-> stack: java · node.js · express · spring boot
-> currently figuring out system design and cloud stuff
+> backend developer — java, spring boot, node.js, express
+> writing APIs, breaking things, fixing them
+> into databases, server stuff, and how the backend actually works
+> picking up system design and cloud on the side
 ```
 
 ---
 
-### about
+### About
 
-backend dev who gets a little too into debugging at 1am.
-still learning, always building something.
+Backend dev. I like building things that work and figuring out why things don't.
+Ask me about Java or Node.js anytime.
 
 ---
 
-### stack
+### Stack
 
 <div align="center">
 
@@ -44,41 +44,41 @@ still learning, always building something.
 
 ---
 
-### stats
+### Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajnikhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajnikhar&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=FFFFFF&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnikhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnikhar&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=FFFFFF&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=rajnikhar&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=rajnikhar&theme=merko&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="65%"/>
 </div>
 
 ---
 
-### projects
+### Projects
 
 <div align="center">
 
-[![Image Static](https://github-readme-stats.vercel.app/api/pin/?username=rajnikhar&repo=Image_static&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA)](https://github.com/rajnikhar/Image_static)
+[![Image Static](https://github-readme-stats.vercel.app/api/pin/?username=rajnikhar&repo=Image_static&theme=merko&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=FFFFFF&icon_color=00d4ff)](https://github.com/rajnikhar/Image_static)
 
 </div>
 
 ---
 
-### activity
+### Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnikhar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnikhar&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff" width="95%"/>
 </div>
 
 ---
 
-### find me
+### Find Me
 
 <div align="center">
 
@@ -88,10 +88,10 @@ still learning, always building something.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajnikhar&style=flat-square&color=A78BFA&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=rajnikhar&style=flat-square&color=00d4ff&label=profile+views"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
